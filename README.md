@@ -7,7 +7,7 @@
 ╚════██║██╔══██║██╔══██╗╚██╗ ██╔╝██╔══██║██║   ██║  ╚██╔╝  ██╔══██║
 ███████║██║  ██║██║  ██║ ╚████╔╝ ██║  ██║╚██████╔╝   ██║   ██║  ██║
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
-                                J O S H I
+                                
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Signal+Processing+%7C+Full-Stack+Dev;Co-Lead+%40+Agentic+AI+Club+VIT+Bhopal+🤖;Building+Intelligent+Systems+for+Healthcare+🧠;AI+Intern+%40+Pinnacle+Labs+Pvt+Ltd+💼;240%2B+Competitive+Programming+Problems+Solved+⚡)](https://git.io/typing-svg)
